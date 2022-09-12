@@ -1,0 +1,11 @@
+{
+  "name": "Crossfit WOD API",
+  "repo": "https://github.com/cekstedt/FreeCodeCamp-crossfit-wod-api",
+  "challenger": "FreeCodeCamp",
+  "challenge page": "https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/",
+  "hosted": null,
+  "original": false,
+  "personal": false,
+  "thumbnail": null,
+  "technologies": ["html", "css", "javascript", "express", "REST"]
+}
