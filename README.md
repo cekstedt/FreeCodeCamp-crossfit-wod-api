@@ -53,6 +53,9 @@ npm install
 Run the command `npm run dev` to start the server.  
 The API will be available at http://localhost:3000/api/v1/
 - ex: http://localhost:3000/api/v1/workouts
+
+<!-- end of list -->
+
 Documentation will be available at http://localhost:3000/api/v1/docs/
 
 ## Author
