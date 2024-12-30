@@ -7,5 +7,7 @@
   "original": false,
   "personal": false,
   "thumbnail": null,
-  "technologies": ["html", "css", "javascript", "express", "rest"]
+  "technologies": ["html", "css", "js", "express", "rest", "node", "swagger"],
+  "status": "complete",
+  "priority": "done"
 }
